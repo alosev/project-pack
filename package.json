@@ -2,10 +2,6 @@
   "name": "project-pack",
   "version": "1.0.0",
   "description": "Project pack",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -17,6 +13,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.0.0",
     "gulp-uglify": "^2.0.1",
+    "gulp-watch": "^4.3.11",
     "gulp.spritesmith": "^6.3.0"
   }
 }
